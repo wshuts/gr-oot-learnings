@@ -1,0 +1,13 @@
+***
+correct command syntax:
+vcpkg integrate install
+
+https://enjoi.dev/posts/2021-09-15-gnu-radio-on-everything/
+has this command transposed
+***
+vcpkg integrated with visual studio 2022:
+seems to be solution/project directory based
+expects to find a manifest in the solution directory
+
+the gnu-radio setup expects a system-defined package directory
+***
